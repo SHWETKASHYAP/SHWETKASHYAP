@@ -48,10 +48,10 @@
 ### 🧩 MergePad
 **Real-time collaborative code editor**
 
-Built with Monaco Editor, Yjs (CRDT) and Socket.IO — supports **25+ concurrent users without data loss or conflicts**.
+Built with Monaco Editor, Yjs (CRDT) and Socket.IO ; Integrated with Online Compiler API for code execution — supports **25+ concurrent users without data loss or conflicts**.
 
 - ⚡ Latency consistently **under 200ms** per operation
-- 🐳 Containerized with Docker & deployed on **AWS ECS**
+- 🐳 Containerized with Docker & deployed on **Vercel and Render**
 - 🛠️ Resolved real production issues: CORS errors & WebSocket failures
 
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
@@ -161,7 +161,7 @@ Exploring how to combine my full-stack background with LLM tooling:
 | Platform | Rating | Highlights |
 |:--------:|:------:|:-----------|
 | <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/> | **Knight 🛡️ (Max 1889)** | 600+ problems solved |
-| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/> | **2★ (Max 1443)** | Active contest participant |
+| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/> | **2★ (Max 1509)** | Active contest participant |
 
 </div>
 
